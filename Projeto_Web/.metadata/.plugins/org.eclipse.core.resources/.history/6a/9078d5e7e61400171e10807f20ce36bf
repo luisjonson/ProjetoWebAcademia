@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Cadastro</title>
+<link rel="stylesheet" type="text/css" href="estilo.cs">
+</head>
+<body>
+
+
+		
+
+			 <img  src="img /smart-fit.png" alt="smart-fit">
+		
+
+	<h1 align="center" style="background: orange; padding: 5px"></h1>
+
+	<form action="Cadastro" method="get" enctype="multipart/form-data">
+
+
+		<br> Masculino: <input type="radio" name="sex" value="masculino">
+			 Feminino: <input type="radio" name="sex" value="female"><br>
+		<br> Nome: <input type="text" name="nome" value=""><br>
+		<br> Telefone: <input type="tel" name="telefone" value=""><br>
+		<br> Data de Nascimento <input type="date" name=""><br>
+		<br> Altura: <input type="text" name="Altura" value=""><br>
+		<br> Peso: <input name="Peso" value=""> <br> 
+		<br> Objetivo: <input type="text" name="objetivo" value=""><br>
+		<br> Observação: <input type="text" name="obsevação" value=""><br>
+		
+		<br> <input type="submit" name="Enviar" value="Enviar">
+		
+	</form>
+</body>
+</html>

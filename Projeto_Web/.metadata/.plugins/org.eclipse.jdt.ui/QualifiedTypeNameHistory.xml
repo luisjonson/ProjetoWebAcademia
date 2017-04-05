@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.lang.StrictMath"/>
+<fullyQualifiedTypeName name="br.com.fametro.dsw.servlets.FichaAluno"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="org.apache.el.parser.ParseException"/>
+<fullyQualifiedTypeName name="oracle.jrockit.jfr.parser.ParseException"/>
+<fullyQualifiedTypeName name="sun.util.calendar.BaseCalendar.Date"/>
+<fullyQualifiedTypeName name="sun.util.calendar.LocalGregorianCalendar.Date"/>
+<fullyQualifiedTypeName name="java.io.PrintWriter"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
+<fullyQualifiedTypeName name="javax.servlet.http.HttpServletResponse"/>
+<fullyQualifiedTypeName name="javax.servlet.ServletException"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="java.lang.String"/>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.text.SimpleDateFormat"/>
+<fullyQualifiedTypeName name="java.text.ParseException"/>
+<fullyQualifiedTypeName name="java.util.Date"/>
+<fullyQualifiedTypeName name="javax.servlet.ServletConfig"/>
+</qualifiedTypeNameHistroy>

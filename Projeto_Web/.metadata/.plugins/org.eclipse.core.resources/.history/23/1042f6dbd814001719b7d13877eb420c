@@ -1,0 +1,51 @@
+package br.com.fametro.dsw.servlets;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+/**
+ * Servlet implementation class CadastroSevlet
+ */
+@WebServlet("/Cadastro")
+public class CadastroSevlet extends HttpServlet {
+	private static final long serialVersionUID = 1L;
+
+	/**
+	 * @see HttpServlet#HttpServlet()
+	 */
+	public CadastroSevlet() {
+		super();
+		// TODO Auto-generated constructor stub
+	}
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse
+	 *      response)
+	 */
+	protected void doGet(HttpServletRequest request,
+			HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		response.getWriter().append("ola porra de codigo");
+		PrintWriter out = response.getWriter();
+		
+		out.println("<html>");
+		out.println("<head>");
+		out.println("<title>Primeira Servlet</title>");
+		out.println("</head>");
+		out.println("<body>");
+		out.println("<h1>aluno cadastrado</h1>" + getInitParameter("nome"));
+		out.println("Masculino:");
+		out.println("</body>");
+		out.println("</html>");
+	}
+
+	
+
+	
+}
