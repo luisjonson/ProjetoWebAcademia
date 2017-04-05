@@ -93,7 +93,7 @@
 	
 	<table  border="3">
 		
-	    	<tr>
+		<tr>
 				<th>seq</th>
 				<th>Coxa</th>
 				<th>Série</th>
@@ -157,128 +157,7 @@
 				<td></td>	
 			</tr>
 			
-	<table  border="3">
-			<tr>
-				<th>seq</th>
-				<th>Costa</th>
-				<th>Série</th>
-				<th>Repetição</th>
-				<th>Carga</th>												
-			</tr>
-					
-			<tr>
-				<td></td>
-				<td>Puxador Frente</td>
-				<td></td>
-				<td></td>
-				<td></td>								
-			</tr>
 			
-			<tr>
-				<td></td>
-				<td>Puxador Costa</td>
-				<td></td>
-				<td></td>
-				<td></td>								
-			</tr>
-			
-			<tr>
-				<td></td>
-				<td>Remada Cavalinho</td>
-				<td></td>
-				<td></td>
-				<td></td>								
-			</tr>
-			
-			<tr>
-				<td></td>
-				<td>Remada Baixo</td>
-				<td></td>
-				<td></td>
-				<td></td>								
-			</tr>
-			
-			<tr>
-				<td></td>
-				<td>Dorsal Máquina</td>
-				<td></td>
-				<td></td>
-				<td></td>								
-			</tr>
-			
-			<tr>
-				<td></td>
-				<td>Graviton</td>
-				<td></td>
-				<td></td>
-				<td></td>								
-			</tr>
-		</table>
 	</table>
-	
-	<table border="3">
-		
-		<tr>
-			<th>seg</th>
-			<th>Quadril</th>
-			<th>Série</th>
-			<th>Repetição</th>
-			<th>Carga</th>
-		</tr>
-		
-		<tr>
-			<td></td>
-			<td>Cadeira Abdutora</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td>Cadeira Adutira</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		
-		<tr>
-			<td></td>
-			<td>Glúteo Máquina</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		
-		<tr>
-			<td></td>
-			<td>Extensão Quadril</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		
-		<tr>
-			<td></td>
-			<td>Avanço</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		
-		<tr>
-			<td></td>
-			<td>Graviton</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-	</table>
-
 </body>
 </html>

@@ -237,7 +237,7 @@
         <tags>EditorStack</tags>
         <tags>active</tags>
         <children xsi:type="basic:Part" xmi:id="_FFtllxmIEeeTS78Jrbm8EQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="FichaAluno.html" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;FichaAluno.html&quot; partName=&quot;FichaAluno.html&quot; title=&quot;FichaAluno.html&quot; tooltip=&quot;RepositorioWebProject/WebContent/FichaAluno.html&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/RepositorioWebProject/WebContent/FichaAluno.html&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;262&quot; selectionTopPixel=&quot;360&quot;/>&#xD;&#xA;&lt;/editor>"/>
+          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;FichaAluno.html&quot; partName=&quot;FichaAluno.html&quot; title=&quot;FichaAluno.html&quot; tooltip=&quot;RepositorioWebProject/WebContent/FichaAluno.html&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/RepositorioWebProject/WebContent/FichaAluno.html&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;0&quot; selectionOffset=&quot;4343&quot; selectionTopPixel=&quot;2938&quot;/>&#xD;&#xA;&lt;/editor>"/>
           <tags>Editor</tags>
           <tags>org.eclipse.wst.html.core.htmlsource.source</tags>
           <tags>removeOnHide</tags>
@@ -269,12 +269,6 @@
             <tags>popup:org.eclipse.wst.html.core.htmlsource.source.source.RulerContext</tags>
             <tags>popup:org.eclipse.wst.sse.ui.StructuredTextEditor.RulerContext</tags>
           </menus>
-        </children>
-        <children xsi:type="basic:Part" xmi:id="_FFtlnRmIEeeTS78Jrbm8EQ" elementId="org.eclipse.e4.ui.compatibility.editor" contributionURI="bundleclass://org.eclipse.ui.workbench/org.eclipse.ui.internal.e4.compatibility.CompatibilityEditor" label="loguin.html" iconURI="platform:/plugin/org.eclipse.wst.html.ui/icons/full/obj16/sourceEditor.gif" closeable="true">
-          <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;editor id=&quot;org.eclipse.wst.html.core.htmlsource.source&quot; name=&quot;loguin.html&quot; partName=&quot;loguin.html&quot; title=&quot;loguin.html&quot; tooltip=&quot;RepositorioWebProject/WebContent/loguin.html&quot;>&#xD;&#xA;&lt;input factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; path=&quot;/RepositorioWebProject/WebContent/loguin.html&quot;/>&#xD;&#xA;&lt;editorState selectionHorizontalPixel=&quot;0&quot; selectionLength=&quot;1386&quot; selectionOffset=&quot;0&quot; selectionTopPixel=&quot;0&quot;/>&#xD;&#xA;&lt;/editor>"/>
-          <tags>Editor</tags>
-          <tags>org.eclipse.wst.html.core.htmlsource.source</tags>
-          <tags>removeOnHide</tags>
         </children>
       </children>
     </sharedElements>
@@ -507,7 +501,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_FFuMMxmIEeeTS78Jrbm8EQ" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_CssCZxmJEeeXX6FhPC1DgA" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_FF4kRhmIEeeTS78Jrbm8EQ"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_wObbsBmmEeeXf4vpxBAegA" elementId="print" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" enabled="false" command="_FF4kRhmIEeeTS78Jrbm8EQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_FFuMQBmIEeeTS78Jrbm8EQ" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -540,10 +534,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_FFuMiBmIEeeTS78Jrbm8EQ" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_Cs-9WBmJEeeXX6FhPC1DgA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_FF4j7xmIEeeTS78Jrbm8EQ"/>
-      </children>
-      <children xsi:type="menu:ToolBar" xmi:id="_FFuMkxmIEeeTS78Jrbm8EQ" elementId="org.eclipse.ui.browser.editor" visible="false">
-        <tags>Draggable</tags>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_wO4HoxmmEeeXf4vpxBAegA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_FF4j7xmIEeeTS78Jrbm8EQ"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_FFuMlBmIEeeTS78Jrbm8EQ" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
