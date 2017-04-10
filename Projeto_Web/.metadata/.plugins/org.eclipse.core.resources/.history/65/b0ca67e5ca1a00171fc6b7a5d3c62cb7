@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Cadastro</title>
+<link rel="stylesheet" type="text/css" href="estilo.css">
+<link href="cadastro.css">
+</head>
+<body>
+
+
+
+
+	<img align="middle" src="C:\Users\nano\workspace\ProjetoWebAcademia\Projeto_Web\RepositorioWebProject\WebContent\Imagem\Smart.png"
+		alt="smart-fit">
+
+
+	<h1 align="center" style="background: orange; padding: 5px"></h1>
+
+	<form action="Cadastro" method="post">
+
+
+		<br> <label> Masculino: <input type="radio" name="sex"
+			value="masculino"></label> <label>Feminino: <input
+			type="radio" name="sex" value="female"></label><br> <br> <label>*
+			Nome: <input type="text" name="nome" required value="">
+		</label><br> <br> <label>Telefone: <input type="tel"
+			name="telefone" value=""></label><br> <br> <label>*
+			Data de Nascimento <input type="date" required name="">
+		</label><br> <br> <label>* Altura: <input type="text"
+			name="Altura" required value=""></label><br> <br> <label>*
+			Peso: <input name="Peso" required value="">
+		</label> <br> <br> <label>* Objetivo: <input type="text"
+			name="objetivo" value=""></label><br> <br> Observação:
+		<textarea name="obsevação"></textarea>
+
+		<br> <input type="submit" name="Enviar" value="Enviar">
+
+	</form>
+</body>
+</html>

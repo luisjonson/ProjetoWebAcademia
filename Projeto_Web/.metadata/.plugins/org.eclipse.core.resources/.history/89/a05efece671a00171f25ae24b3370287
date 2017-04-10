@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Insert title here</title>
+</head>
+
+<figure>
+	<img alt="Smart-Fit"
+		src="C:/Users/nano/workspace/Projeto_Web/RepositorioWebProject/WebContent/WEB-INF/Imagem/Smart.png">
+</figure>
+
+<body>
+
+
+
+	<form action="Cadastro" method="post">
+
+
+
+		<label>N° Aluno:</label><br>
+		<br> <label>Nome: <input name="nome"></label><br>
+		<br> <label>Telefone: <input name="telefone"></label><br>
+		<br> <label>Data de Nascimento <input
+			name="dataDeNascimento"></label><br>
+		<br> <label>Altura: <input type="text" name="Altura"
+			required></label><br>
+		<br> <label>Peso: <input name="Peso"></label><br>
+		<br> <label>Objetivo: <input name="objetivo"></label><br>
+		<br> Observação:
+		<textarea name="obsevação"></textarea>
+	</form>
+	<br>
+	<br>
+	
+	<div class="table-responsive">
+	<table cl border="1">
+
+		<caption>Litra de exercicio</caption>
+
+		<tr>
+			<th>seq</th>
+			<th>Peito</th>
+			<th>Série</th>
+			<th>Repetição</th>
+			<th>Carga</th>
+		</tr>
+
+
+		<tr>
+			<td></td>
+			<td>Supino Reto</td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<td></td>
+			<td>Supino Declinado</td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<td></td>
+			<td>Supino Inclinado</td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<td></td>
+			<td>Crucifixo</td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<td></td>
+			<td>Cross Over</td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<td></td>
+			<td>Pec Deck</td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+	</table>
+	
+
+	<table border="1">
+
+		<tr>
+			<th>seq</th>
+			<th>Coxa</th>
+			<th>Série</th>
+			<th>Repetição</th>
+			<th>Carga</th>
+		</tr>
+
+		<tr>
+			<td></td>
+			<td>Agachamento</td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<td></td>
+			<td>Hack</td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<td></td>
+			<td>Leg Press 45°</td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<td></td>
+			<td>Cadeira Extensora</td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<td></td>
+			<td>Mesa Flexora</td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<td></td>
+			<td>Cadeira Flexora</td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<td></td>
+			<td>Flexora Vertical</td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		
+		
+			<tr>
+				<th>seq</th>
+				<th>Costa</th>
+				<th>Série</th>
+				<th>Repetição</th>
+				<th>Carga</th>
+			</tr>
+
+			<tr>
+				<td></td>
+				<td>Puxador Frente</td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+
+			<tr>
+				<td></td>
+				<td>Puxador Costa</td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+
+			<tr>
+				<td></td>
+				<td>Remada Cavalinho</td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+
+			<tr>
+				<td></td>
+				<td>Remada Baixo</td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+
+			<tr>
+				<td></td>
+				<td>Dorsal Máquina</td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+
+			<tr>
+				<td></td>
+				<td>Graviton</td>
+				<td></td>
+				<td></td>
+				<td></td>
+			</tr>
+		</table>
+	</table>
+
+	<table border="3">
+
+		<tr>
+			<th>seg</th>
+			<th>Quadril</th>
+			<th>Série</th>
+			<th>Repetição</th>
+			<th>Carga</th>
+		</tr>
+
+		<tr>
+			<td></td>
+			<td>Cadeira Abdutora</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td>Cadeira Adutira</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<td></td>
+			<td>Glúteo Máquina</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<td></td>
+			<td>Extensão Quadril</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<td></td>
+			<td>Avanço</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+
+		<tr>
+			<td></td>
+			<td>Graviton</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
+	
+			<tr>
+				<th>Seq</th>
+				<th>Quadril</th>
+				<th>Série</th>
+				<th>Repeticão</th>
+				<th>Carga</th>
+			</tr>
+			
+
+	
+	</div>
+
+</body>
+</html>

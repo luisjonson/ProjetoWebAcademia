@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>SmartFit</title>
+</head>
+
+<body>
+	<section id="main">
+		<!-- Conteúdo principal -->
+	</section>
+	<section id="destaques">
+		<!-- Painéis com destaques -->
+	</section>
+
+	<footer>
+		<!-- Conteúdo do rodapé -->
+	</footer>
+</body>
+</html>

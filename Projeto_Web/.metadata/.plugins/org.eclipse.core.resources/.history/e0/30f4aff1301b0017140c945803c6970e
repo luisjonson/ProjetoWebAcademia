@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Smart fit</title>
+<link rel="stylesheet" href="css/estilo.css">
+<link rel="stylesheet" href="WebContent/bootstrap-3.3.7-dist/css">
+<link rel="icon" type="image/png" href=C:\Users\nano\workspace\ProjetoWebAcademia\Projeto_Web\RepositorioWebProject\WebContent\Imagem\Smart.png>
+
+
+<style>
+body {
+	background-color:;
+}
+
+.container {
+	background-color: #ccc;
+	border-radius: 5px 5px;
+	left: 500px;
+	width: 500px;
+}
+
+.selectpicker {
+	border-radius: 54px 35px;
+}
+</style>
+
+</head>
+<body>
+
+	<div class="container">
+
+		<img alt="Smart Fit" src=C:\Users\nano\workspace\ProjetoWebAcademia\Projeto_Web\RepositorioWebProject\WebContent\Imagem\Smart.png
+			class="img-rounded">
+
+
+		<form action="" method="post" accept-charset="UTF-8"
+			class="form-login">
+
+
+			<label for="inputText" class="sr-only">Usuario</label> <input
+				type="text" id="inputText" class="form-control"
+				placeholder="Usuario" required autofocus> <label
+				for="inputPassword" class="sr-only">Senha</label> <input
+				type="password" id="inputPassword" class="form-control"
+				placeholder="Senha" required>
+
+			<div class="checkbox"></div>
+
+			<button type="submit" class="btn btn-md btn-primary btn-block"
+				style="background-color: orange;">
+				<b>Entrar</b>
+			</button>
+			<label> </label>
+		</form>
+	</div>
+
+
+</body>
+</html>

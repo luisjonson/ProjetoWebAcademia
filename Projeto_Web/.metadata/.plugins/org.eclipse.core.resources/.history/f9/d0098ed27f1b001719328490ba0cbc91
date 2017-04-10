@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+<meta charset="UTF-8">
+<title>Smart fit</title>
+<link rel="stylesheet" href="css/estilo.css">
+<link rel="stylesheet" href="WebContent/bootstrap-3.3.7-dist/css">
+<link rel="icon" type="image/png"
+	href=C:\Users\nano\workspace\ProjetoWebAcademia\Projeto_Web\RepositorioWebProject\WebContent\Imagem\Smart.png>
+
+
+<style>
+body {
+	background-color:;
+}
+
+
+.centraliza {
+	margin-left: auto;
+	margin-right: auto;
+	width: 550px;
+}
+
+.container {
+	background-color: #ccc;
+	border-radius: 5px 5px;
+	left: 500px;
+	width: 500px;
+}
+
+.selectpicker {
+	border-radius: 3px 3px;
+}
+
+#rodape img {
+	margin-right: 35px;
+	vertical-align: middle;
+	width: 94px;
+}
+</style>
+
+</head>
+<body>
+
+	<div class="container">
+
+		<figure id="centraliza">
+			<img alt="Smart Fit" src=C:\Users\nano\workspace\ProjetoWebAcademia\Projeto_Web\RepositorioWebProject\WebContent\Imagem\Smart.png
+				class="img-rounded">
+		</figure>
+
+		<form action="" method="post" accept-charset="UTF-8"
+			class="form-login">
+
+
+			<label for="inputText" class="sr-only">
+				Usuario</label> <input type="text" id="inputText" class="form-control"
+				placeholder="Usuario" required autofocus> <label
+				for="inputPassword" class="sr-only">
+				Senha</label> <input type="password" id="inputPassword" class="form-control"
+				placeholder="Senha" required>
+				
+				Cadastra Aluno:< 
+
+			<div class="checkbox"></div>
+
+			<button type="submit" class="btn btn-md btn-primary btn-block"
+				style="background-color: orange;">
+				<b>Entrar</b>
+			</button>
+			<label> </label>
+		</form>
+	</div>
+
+
+</body>
+</html>

@@ -1,4 +1,8 @@
 INDEX VERSION 1.127
+C:\Users\nano\workspace\ProjetoWebAcademia\Projeto_Web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2501664169.index
+\RepositorioWebProject\src
+C:\Users\nano\workspace\ProjetoWebAcademia\Projeto_Web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3134924797.index
+\RepositorioWebProject\src
 C:\Users\nano\workspace\Projeto_Web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1764954441.index
 \RepositorioWebProject\src
 C:\Users\nano\workspace\Projeto_Web\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2501664169.index
