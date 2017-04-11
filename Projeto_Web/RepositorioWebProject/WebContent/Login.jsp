@@ -11,7 +11,7 @@
 
 <style type="text/css" >
 
-body {
+#body {
 	background-color: #D6D3D3;
 }
 
@@ -130,9 +130,10 @@ body {
 				<div class="input-div" id="input-senha">
 					<input type="text" value="Senha">
 				</div>	
-                               
+                 <form action="ca"></form>              
                   <div id="lembra-senha"><input type="checkbox"/>Lembra senha</div>
-                  <div id="CadastraAluno">Cadastra aluno</div><br><br>
+                  <div id="CadastraAluno"><a href="CadatroAluno.html">cadastra aluno</a></div><br><br>
+                   
                     <div id="botao" ><input type="submit" name="enviar" value="Enviar"></div>
                   
                    

@@ -5,36 +5,73 @@
 <title>Cadastro</title>
 <link rel="stylesheet" type="text/css" href="estilo.css">
 <link href="cadastro.css">
+
+<style type="text/css">
+
+#body {
+	background-color: #D6D3D3;
+}
+
+#form-box {
+	background-color: #ECECEC;
+	width: 340px;
+	height: 500px;
+	margin: 140px auto 0px;
+	border-radius: 5px;
+  
+}
+
+#form-box-interno {
+	width: 340px;
+	height: 600px;
+	background-color:white;
+	position: absolute;
+	border-radius: 5px;
+	box-shadow: 0px 5px 10px black;
+	overflow: hidden;
+}
+
+#form-box-label {
+	background-color:#D6D3D3;
+	height:80px;
+	text-align:center;
+    font:bold 12px/12px sans-serif;
+    border-top-left-radius:5px;
+    border-top-right-radius:5px;
+    border-bottom:1px solid #cccccc;
+    box-shadow:1px 0px 3px #ccc4c5;
+}
+
+</style>
 </head>
 <body>
+	
+	<div id="body">
+		<div id="form-box">
+			<div id="form-bom-interno">
+		<img align="middle" src=C:\Users\nano\workspace\ProjetoWebAcademia\Projeto_Web\RepositorioWebProject\WebContent\Imagem\Smart.png>
 
 
+		<h1 align="center" style="background: orange; padding: 5px"></h1>
+
+		<form action="Cadastro" method="post">
 
 
-	<img align="middle" src=C:\Users\nano\workspace\ProjetoWebAcademia\Projeto_Web\RepositorioWebProject\WebContent\Imagem\Smart.png>
+		<br> <label> Masculino: <input type="radio" name="sex" value="masculino"></label><label>
+		Feminino: <input type="radio" name="sex" value="female"></label><br> <br> <label>
+		* Nome: <input type="text" name="nome" required value=""></label><br> <br> <label>
+		Telefone: <input type="tel"	name="telefone" value=""></label><br> <br> <label>
+		* Data de Nascimento <input type="date" required name=""></label><br> <br> <label>
+		* Altura: <input type="text" name="Altura" required value=""></label><br> <br> <label>
+		* Peso: <input name="Peso" required value=""></label> <br> <br> <label>
+		* Objetivo: <input type="text" name="objetivo" value=""></label><br> <br>
+				  Observação: <textarea name="obsevação"></textarea><br> 
+		  
+		  		<input type="submit" name="Enviar" value="Enviar">
 
-
-	<h1 align="center" style="background: orange; padding: 5px"></h1>
-
-	<form action="Cadastro" method="post">
-
-
-		<br> <label> Masculino: <input type="radio" name="sex"
-			value="masculino"></label> <label>Feminino: <input
-			type="radio" name="sex" value="female"></label><br> <br> <label>*
-			Nome: <input type="text" name="nome" required value="">
-		</label><br> <br> <label>Telefone: <input type="tel"
-			name="telefone" value=""></label><br> <br> <label>*
-			Data de Nascimento <input type="date" required name="">
-		</label><br> <br> <label>* Altura: <input type="text"
-			name="Altura" required value=""></label><br> <br> <label>*
-			Peso: <input name="Peso" required value="">
-		</label> <br> <br> <label>* Objetivo: <input type="text"
-			name="objetivo" value=""></label><br> <br> Observação:
-		<textarea name="obsevação"></textarea>
-
-		<br> <input type="submit" name="Enviar" value="Enviar">
-
-	</form>
+			</form>
+			</div>
+		</div>
+	</div>
 </body>
 </html>
